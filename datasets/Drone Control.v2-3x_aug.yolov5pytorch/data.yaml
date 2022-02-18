@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 8
+names: ['follow', 'follow_hand', 'land', 'land_hand', 'null', 'object', 'takeoff', 'takeoff-hand']
